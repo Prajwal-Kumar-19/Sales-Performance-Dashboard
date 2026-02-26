@@ -69,9 +69,13 @@ Used SUMIFS functions to compute:
 📌 **Key Insights Generated**
 
 ✅ Identified top revenue-generating categories
+
 ✅ Compared city-level performance
+
 ✅ Analyzed monthly revenue growth
+
 ✅ Tracked marketing funnel efficiency
+
 ✅ Measured conversion improvements
 
 
