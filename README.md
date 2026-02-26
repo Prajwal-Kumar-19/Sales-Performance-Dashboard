@@ -35,9 +35,6 @@ Used SUMIFS functions to compute:
 📈 Performance growth tracking
 👀 Impressions vs 🔄 Conversions Chart
 
-**Funnel-style performance analysis**
-
-**Campaign effectiveness measurement**
 
 **Conversion optimization insights**
 
